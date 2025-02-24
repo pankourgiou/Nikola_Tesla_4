@@ -1,0 +1,1 @@
+First in order to execute the program the .py program and the .png file must be on the same folder. Here we took patent 511915 of Nikola Tesla and entered a CPU usage button creating a new machine this way anyway I hope you enjoy!
